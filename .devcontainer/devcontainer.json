@@ -1,0 +1,25 @@
+{
+    "name":"New Dev",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."},
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "eamodio.gitlens",
+                "streetsidesoftware.code-spell-checker",
+                "modular-mojotools.vscode-mojo"
+            ]
+            
+        }
+    },
+    "features": {
+        "./zsh-plugins": {
+            "plugins": "zsh-syntax-highlighting zsh-autosuggestions",
+            "omzPlugins": "https://github.com/zsh-users/zsh-syntax-highlighting https://github.com/zsh-users/zsh-autosuggestions"
+        }
+    }   
+    
+}
