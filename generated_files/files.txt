@@ -1,0 +1,162 @@
+/root/.modular
+|-- crashdb
+|   |-- attachments
+|   |-- completed
+|   |-- new
+|   |-- pending
+|   `-- settings.dat
+|-- modular.cfg
+`-- pkg
+    `-- packages.modular.com_mojo
+        |-- VERSION
+        |-- bin
+        |   |-- lldb
+        |   |-- lldb-argdumper
+        |   |-- lldb-server
+        |   |-- lldb-vscode
+        |   |-- modular-crashpad-handler
+        |   |-- mojo
+        |   `-- mojo-lsp-server
+        |-- installed.json
+        |-- jupyter
+        |   |-- kernel
+        |   |   |-- logo-64x64.png
+        |   |   |-- logo.svg
+        |   |   `-- mojokernel.py
+        |   `-- manage_kernel.py
+        |-- lib
+        |   |-- libKGENCompilerRT-static.a
+        |   |-- libKGENCompilerRTShared.so -> /root/.modular/pkg/packages.modular.com_mojo/lib/libKGENCompilerRTShared.so.18git
+        |   |-- libKGENCompilerRTShared.so.18git
+        |   |-- libLLCLRuntimeGlobals.so -> /root/.modular/pkg/packages.modular.com_mojo/lib/libLLCLRuntimeGlobals.so.18git
+        |   |-- libLLCLRuntimeGlobals.so.18git
+        |   |-- libMSupportGlobals.so -> /root/.modular/pkg/packages.modular.com_mojo/lib/libMSupportGlobals.so.18git
+        |   |-- libMSupportGlobals.so.18git
+        |   |-- libMojoJupyter.so -> /root/.modular/pkg/packages.modular.com_mojo/lib/libMojoJupyter.so.18git
+        |   |-- libMojoJupyter.so.18git
+        |   |-- libMojoLLDB.so -> /root/.modular/pkg/packages.modular.com_mojo/lib/libMojoLLDB.so.18git
+        |   |-- libMojoLLDB.so.18git
+        |   |-- liblldb.so -> /root/.modular/pkg/packages.modular.com_mojo/lib/liblldb.so.18.0.0git
+        |   |-- liblldb.so.18.0.0git
+        |   |-- liblldb.so.18git -> /root/.modular/pkg/packages.modular.com_mojo/lib/liblldb.so.18.0.0git
+        |   |-- liborc_rt.a
+        |   |-- lldb-visualizers
+        |   |   |-- lldbDataFormatters.py
+        |   |   `-- mlirDataFormatters.py
+        |   |-- mblack
+        |   |   |-- base_library.zip
+        |   |   |-- importlib_metadata-6.8.0.dist-info
+        |   |   |   |-- INSTALLER
+        |   |   |   |-- LICENSE
+        |   |   |   |-- METADATA
+        |   |   |   |-- RECORD
+        |   |   |   |-- WHEEL
+        |   |   |   `-- top_level.txt
+        |   |   |-- lib-dynload
+        |   |   |   |-- _asyncio.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _bz2.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _codecs_cn.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _codecs_hk.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _codecs_iso2022.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _codecs_jp.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _codecs_kr.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _codecs_tw.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _contextvars.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _ctypes.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _decimal.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _hashlib.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _json.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _lzma.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _multibytecodec.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _multiprocessing.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _opcode.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _posixshmem.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _queue.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _ssl.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- _uuid.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- mmap.cpython-38-x86_64-linux-gnu.so
+        |   |   |   |-- resource.cpython-38-x86_64-linux-gnu.so
+        |   |   |   `-- termios.cpython-38-x86_64-linux-gnu.so
+        |   |   |-- libbz2.so.1.0
+        |   |   |-- libcrypto.so.1.1
+        |   |   |-- libexpat.so.1
+        |   |   |-- libffi.so.7
+        |   |   |-- liblzma.so.5
+        |   |   |-- libmpdec.so.2
+        |   |   |-- libpython3.8.so.1.0
+        |   |   |-- libssl.so.1.1
+        |   |   |-- libuuid.so.1
+        |   |   |-- libz.so.1
+        |   |   |-- mblack
+        |   |   `-- mblib2to3
+        |   |       |-- Grammar.txt
+        |   |       |-- LICENSE
+        |   |       |-- PatternGrammar.txt
+        |   |       |-- README
+        |   |       |-- __init__.py
+        |   |       |-- pgen2
+        |   |       |   |-- __init__.py
+        |   |       |   |-- conv.py
+        |   |       |   |-- driver.py
+        |   |       |   |-- grammar.py
+        |   |       |   |-- literals.py
+        |   |       |   |-- parse.py
+        |   |       |   |-- pgen.py
+        |   |       |   |-- token.py
+        |   |       |   `-- tokenize.py
+        |   |       |-- pygram.py
+        |   |       `-- pytree.py
+        |   |-- mojo
+        |   |   |-- algorithm.mojopkg
+        |   |   |-- autotune.mojopkg
+        |   |   |-- base64.mojopkg
+        |   |   |-- benchmark.mojopkg
+        |   |   |-- builtin.mojopkg
+        |   |   |-- complex.mojopkg
+        |   |   |-- math.mojopkg
+        |   |   |-- memory.mojopkg
+        |   |   |-- os.mojopkg
+        |   |   |-- python.mojopkg
+        |   |   |-- random.mojopkg
+        |   |   |-- runtime.mojopkg
+        |   |   |-- sys.mojopkg
+        |   |   |-- tensor.mojopkg
+        |   |   |-- testing.mojopkg
+        |   |   |-- time.mojopkg
+        |   |   `-- utils.mojopkg
+        |   `-- mojo-repl-entry-point
+        |-- licenses
+        |   |-- LICENSE
+        |   `-- Third-Party-Notices
+        |-- modular.cfg
+        |-- root.json
+        |-- scripts
+        |   `-- post-install
+        |       |-- install-dependencies.sh
+        |       |-- pick_python.py
+        |       |-- requirements.txt
+        |       `-- self-test.py
+        |-- share
+        |   `-- man
+        |       `-- man1
+        |           |-- mojo-build.1
+        |           |-- mojo-demangle.1
+        |           |-- mojo-doc.1
+        |           |-- mojo-format.1
+        |           |-- mojo-package.1
+        |           |-- mojo-repl.1
+        |           |-- mojo-run.1
+        |           `-- mojo.1
+        |-- snapshot.json
+        |-- targets.json
+        |-- test
+        |   |-- test_format.mojo
+        |   |-- test_jupyter.ipynb
+        |   |-- test_mandelbrot.mojo
+        |   |-- test_package
+        |   |   `-- __init__.mojo
+        |   |-- test_package_user.mojo
+        |   `-- test_python.mojo
+        `-- timestamp.json
+
+26 directories, 133 files

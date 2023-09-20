@@ -1,0 +1,592 @@
+M::KGEN::LIT::ASTDecl &
+M::KGEN::LIT::ASTDecl &)
+M::KGEN::LIT::ASTDecl &)::(anonymous class)::operator()(mlir::SymbolRefAttr) const
+M::KGEN::LIT::ASTDecl &M::KGEN::LIT::DeclResolver::getDeclForTypeSymbol(mlir::SymbolRefAttr) const
+M::KGEN::LIT::ASTDecl &M::KGEN::LIT::SharedState::importModule(llvm::StringRef
+M::KGEN::LIT::ASTDecl *
+M::KGEN::LIT::ASTDecl *>
+M::KGEN::LIT::ASTDecl *> M::KGEN::LIT::ASTDecl::lookupInCurrentScope(mlir::StringAttr) const
+M::KGEN::LIT::ASTDecl *>::assertSafeToReferenceAfterResize(const void *
+M::KGEN::LIT::ASTDecl *>::back() [T = M::KGEN::LIT::ASTDecl *]
+M::KGEN::LIT::ASTDecl *>::back() const [T = M::KGEN::LIT::ASTDecl *]
+M::KGEN::LIT::ASTDecl *>::front() [T = M::KGEN::LIT::ASTDecl *]
+M::KGEN::LIT::ASTDecl *>::front() const [T = M::KGEN::LIT::ASTDecl *]
+M::KGEN::LIT::ASTDecl *>::operator[](llvm::SmallVectorTemplateCommon::size_type) [T = M::KGEN::LIT::ASTDecl *]
+M::KGEN::LIT::ASTDecl *>::operator[](size_t) const [T = M::KGEN::LIT::ASTDecl *]
+M::KGEN::LIT::ASTDecl *>::operator[](std::vector::size_type) [_Tp = M::KGEN::LIT::ASTDecl *
+M::KGEN::LIT::ASTDecl *>::push_back(EltTy) [T = M::KGEN::LIT::ASTDecl *]
+M::KGEN::LIT::ASTDecl *>>
+M::KGEN::LIT::ASTDecl *>> M::KGEN::LIT::DeclResolver::lookupDeclInModule(M::KGEN::LIT::ASTDecl &
+M::KGEN::LIT::ASTDecl *>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::ASTDecl *>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::ASTDecl *>>::initEmpty() [DerivedT = llvm::DenseMap<M::KGEN::LIT::ASTDecl *
+M::KGEN::LIT::ASTDecl *>>::initEmpty() [DerivedT = llvm::DenseMap<mlir::SymbolRefAttr
+M::KGEN::LIT::ASTDecl *>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::ASTDecl *>>>::operator[](llvm::SmallVectorTemplateCommon::size_type) [T = std::pair<mlir::StringAttr
+M::KGEN::LIT::ASTDecl *>>]
+M::KGEN::LIT::ASTDecl *>]
+M::KGEN::LIT::ASTDecl *]
+M::KGEN::LIT::ASTDecl *unwrapMojoASTDecl(void *)
+M::KGEN::LIT::ASTDecl::getSymbolRef() const
+M::KGEN::LIT::ASTDecl::setSelfType(M::KGEN::LIT::ASTType)
+M::KGEN::LIT::ASTDeclInterface
+M::KGEN::LIT::ASTDeclInterface::Trait<Empty>]
+M::KGEN::LIT::ASTDeclInterface>
+M::KGEN::LIT::ASTDeclInterface]
+M::KGEN::LIT::ASTDecl]
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue> *]
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>::assertSafeToReferenceAfterResize(const void *
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>::back() [T = M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>]
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>::drop_front(size_t) const [T = M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>]
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>::front() [T = M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>]
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>::insert(llvm::SmallVectorImpl::iterator
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>::operator[](llvm::SmallVectorTemplateCommon::size_type) [T = M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>]
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>::operator[](size_t) const [T = M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>]
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>>
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>>::initEmpty() [DerivedT = llvm::DenseMap<mlir::StringAttr
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>>]
+M::KGEN::LIT::ASTExprAnd<M::KGEN::LIT::AnyValue>]
+M::KGEN::LIT::ASTType
+M::KGEN::LIT::ASTType &
+M::KGEN::LIT::ASTType M::KGEN::LIT::ASTDecl::getSelfType() const
+M::KGEN::LIT::ASTType M::KGEN::LIT::SharedState::getBuiltinTupleInstantion(M::KGEN::LIT::ASTDecl &
+M::KGEN::LIT::ASTType M::KGEN::LIT::ValueDest::resolveImpliedType(llvm::SMLoc
+M::KGEN::LIT::ASTType getTypeFrom(AnyValue::Storage)
+M::KGEN::LIT::ASTType unwrapMojoASTType(void *)
+M::KGEN::LIT::ASTType)
+M::KGEN::LIT::ASTType) const
+M::KGEN::LIT::ASTType::ASTType(mlir::TypedAttr)
+M::KGEN::LIT::ASTType::getRegisterPassability(llvm::SMLoc
+M::KGEN::LIT::ASTType::hasDestructor(llvm::SMLoc
+M::KGEN::LIT::AliasDeclOp
+M::KGEN::LIT::AliasDeclOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::AliasDeclOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::AliasDeclOp::renameDeclarations(ArrayRef<M::KGEN::ParamDeclAttr>)
+M::KGEN::LIT::AliasDeclOp>::collectParameterUsesBelow(function_ref<void (mlir::Attribute)>
+M::KGEN::LIT::AliasDeclOp]
+M::KGEN::LIT::AliasForwardDeclOp
+M::KGEN::LIT::AliasForwardDeclOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::AliasForwardDeclOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::AnyValue M::KGEN::LIT::AddressConvertNode::emitIR(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::AnyValue M::KGEN::LIT::AttributeRefNode::emitIR(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::AnyValue M::KGEN::LIT::DeclRefNode::emitIR(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::AnyValue M::KGEN::LIT::ExprEmitter::emitDeclReference(llvm::StringRef
+M::KGEN::LIT::AnyValue M::KGEN::LIT::ExprEmitter::emitResult(M::KGEN::LIT::AnyValue
+M::KGEN::LIT::AnyValue M::KGEN::LIT::FunctionTypeNode::emitIR(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::AnyValue M::KGEN::LIT::SimpleLiteralNode::emitIR(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::AnyValue M::KGEN::LIT::SubscriptArrowNode::emitIR(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::AnyValue M::KGEN::LIT::UnaryOpNode::emitIR(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::AnyValue emitBinOpCall(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::AnyValue emitMLIROperatorCall(const M::KGEN::LIT::CallNode &
+M::KGEN::LIT::AnyValue refineResultValue(M::KGEN::LIT::AnyValue
+M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::AnyValue>>
+M::KGEN::LIT::AsyncCallOp
+M::KGEN::LIT::AsyncCallOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::AsyncCallOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::AsyncCallOp::renameDeclarations(ArrayRef<M::KGEN::ParamDeclAttr>)
+M::KGEN::LIT::AsyncCallOp>::collectParameterUsesBelow(function_ref<void (mlir::Attribute)>
+M::KGEN::LIT::AsyncCallOp]
+M::KGEN::LIT::AsyncExecuteOp
+M::KGEN::LIT::AsyncExecuteOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::AsyncExecuteOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::AsyncExecuteOp>::getBody(unsigned int) [ConcreteType = M::KGEN::LIT::AsyncExecuteOp]
+M::KGEN::LIT::AsyncReturnOp
+M::KGEN::LIT::AsyncReturnOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::AttributeRefNode
+M::KGEN::LIT::BValue M::KGEN::LIT::ExprEmitter::emitBValue(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::BValue M::KGEN::LIT::ExprEmitter::emitStoreToLValue(ASTExprAnd<M::KGEN::LIT::CValue>
+M::KGEN::LIT::BaseDLValue>::operator*() const [T = M::KGEN::LIT::BaseDLValue]
+M::KGEN::LIT::BaseDLValue>::~NonAtomicallyReferenceCounted() [SubClass = M::KGEN::LIT::BaseDLValue]
+M::KGEN::LIT::BreakOp
+M::KGEN::LIT::BreakOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::CRValue M::KGEN::LIT::ExprEmitter::emitCRValue(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::CValue
+M::KGEN::LIT::CValue M::KGEN::LIT::AttributeRefNode::emitStoredFieldRef(ASTExprAnd<M::KGEN::LIT::CValue>
+M::KGEN::LIT::CValue M::KGEN::LIT::ExprEmitter::emitCRValue(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::CValue M::KGEN::LIT::ExprEmitter::emitCResult(M::KGEN::LIT::CValue
+M::KGEN::LIT::CValue M::KGEN::LIT::ExprEmitter::emitCValue(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::CValue M::KGEN::LIT::ExprEmitter::emitCallUnchecked(M::KGEN::LIT::CRValue
+M::KGEN::LIT::CValue M::KGEN::LIT::ExprEmitter::emitConstructorCall(M::KGEN::LIT::ASTType
+M::KGEN::LIT::CValue M::KGEN::LIT::ExprEmitter::emitCopyOfValue(ASTExprAnd<M::KGEN::LIT::CValue>
+M::KGEN::LIT::CValue M::KGEN::LIT::ExprEmitter::emitExprCValue(const M::KGEN::LIT::ExprNode *
+M::KGEN::LIT::CValue M::KGEN::LIT::ExprEmitter::emitLoadOfLValue(ASTExprAnd<M::KGEN::LIT::LValue>
+M::KGEN::LIT::CValue M::KGEN::LIT::ExprEmitter::emitNamedMethodCall(llvm::StringRef
+M::KGEN::LIT::CValue M::KGEN::LIT::GlobalDLValue::emitLoad(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::CValue M::KGEN::LIT::OverloadSet::emitAsCValue(M::KGEN::LIT::ExprEmitter &
+M::KGEN::LIT::CValue M::KGEN::LIT::OverloadSet::emitCall(ArrayRef<ASTExprAnd<M::KGEN::LIT::AnyValue>>
+M::KGEN::LIT::CValue M::KGEN::LIT::SubscriptDLValue::emitLoad(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::CallSyntax
+M::KGEN::LIT::Capture &)
+M::KGEN::LIT::Capture>
+M::KGEN::LIT::Capture>>
+M::KGEN::LIT::Capture>>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::Capture>>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::Capture>>>::initEmpty() [DerivedT = llvm::DenseMap<M::KGEN::LIT::ASTDecl *
+M::KGEN::LIT::Capture>>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::Capture>>]
+M::KGEN::LIT::ClosureCache &)
+M::KGEN::LIT::ClosureEmitter::createWrapperInitWithImpl(M::KGEN::LIT::StructDeclOp
+M::KGEN::LIT::ContinueOp
+M::KGEN::LIT::ContinueOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::DeclRefNode
+M::KGEN::LIT::DeclRefNode::emitIR(M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::DeclResolvedness)
+M::KGEN::LIT::DeclResolvedness)::(anonymous class)::operator()(auto) const [op:auto = M::KGEN::LIT::FileModuleOp]
+M::KGEN::LIT::DeclResolvedness)::(anonymous class)::operator()(auto) const [op:auto = M::KGEN::LIT::PackageOp]
+M::KGEN::LIT::DeclResolver &
+M::KGEN::LIT::DeclResolver::attachDeclToParentNameTable(M::KGEN::LIT::ASTDecl *
+M::KGEN::LIT::DeclResolver::resolveBody(LIT::FuncOp
+M::KGEN::LIT::DeclResolver::resolveBody(M::KGEN::LIT::StructDeclOp
+M::KGEN::LIT::DeclResolver::resolveSignature(LIT::FuncOp
+M::KGEN::LIT::DeclResolver::resolveSignature(M::KGEN::LIT::GlobalVarDeclOp
+M::KGEN::LIT::DeclResolver>::operator*() const [_Tp = M::KGEN::LIT::DeclResolver
+M::KGEN::LIT::DeclResolver>]
+M::KGEN::LIT::DocString
+M::KGEN::LIT::DocStringAttr
+M::KGEN::LIT::DocStringAttr M::KGEN::LIT::detail::AliasDeclOpGenericAdaptorBase::getDocStringAttr()
+M::KGEN::LIT::DocStringAttr M::KGEN::LIT::detail::AliasForwardDeclOpGenericAdaptorBase::getDocStringAttr()
+M::KGEN::LIT::DocStringAttr M::KGEN::LIT::detail::FileModuleOpGenericAdaptorBase::getDocStringAttr()
+M::KGEN::LIT::DocStringAttr M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getDocStringAttr()
+M::KGEN::LIT::DocStringAttr M::KGEN::LIT::detail::GlobalVarDeclOpGenericAdaptorBase::getDocStringAttr()
+M::KGEN::LIT::DocStringAttr M::KGEN::LIT::detail::PackageOpGenericAdaptorBase::getDocStringAttr()
+M::KGEN::LIT::DocStringAttr M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getDocStringAttr()
+M::KGEN::LIT::DocStringAttr M::KGEN::LIT::detail::StructFieldOpGenericAdaptorBase::getDocStringAttr()
+M::KGEN::LIT::DocStringAttr M::KGEN::LIT::detail::VarLetDeclOpGenericAdaptorBase::getDocStringAttr()
+M::KGEN::LIT::DocStringAttr)
+M::KGEN::LIT::DocStringAttr>]
+M::KGEN::LIT::DocStringAttr]
+M::KGEN::LIT::EndFuncOp
+M::KGEN::LIT::EndFuncOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::ErrorReturnOp
+M::KGEN::LIT::ErrorReturnOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::ErrorReturnOp::getBranchTargets(ArrayRef<mlir::Attribute>
+M::KGEN::LIT::ExprContext
+M::KGEN::LIT::ExprContext)
+M::KGEN::LIT::ExprEmitter &
+M::KGEN::LIT::ExprEmitter &)
+M::KGEN::LIT::ExprEmitter &) const
+M::KGEN::LIT::ExprEmitter &)::(anonymous class)::operator()(M::KGEN::LIT::ASTType) const
+M::KGEN::LIT::ExprEmitter &)::(anonymous class)::operator()(mlir::OpBuilder &
+M::KGEN::LIT::ExprEmitter::emitCallUnchecked(M::KGEN::LIT::CRValue
+M::KGEN::LIT::ExprEmitter::emitNormalReturn(mlir::ImplicitLocOpBuilder &
+M::KGEN::LIT::ExprNode *
+M::KGEN::LIT::ExprNode *)
+M::KGEN::LIT::ExprNode *)::(anonymous class)::operator()(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::ExprNode *>
+M::KGEN::LIT::ExprNode *>::back() const [T = M::KGEN::LIT::ExprNode *]
+M::KGEN::LIT::ExprNode *>::doit(const From *) [To = M::KGEN::LIT::StringLiteralNode
+M::KGEN::LIT::ExprNode *>::doit(const From *) [To = M::KGEN::LIT::TupleNode
+M::KGEN::LIT::ExprNode *>::front() const [T = M::KGEN::LIT::ExprNode *]
+M::KGEN::LIT::ExprNode *>::operator[](llvm::SmallVectorTemplateCommon::size_type) [T = M::KGEN::LIT::ExprNode *]
+M::KGEN::LIT::ExprNode *>::operator[](size_t) const [T = M::KGEN::LIT::ExprNode *]
+M::KGEN::LIT::ExprNode *>>
+M::KGEN::LIT::ExprNode *>>>
+M::KGEN::LIT::ExprNode *>>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::ExprNode *>>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::ExprNode *>>>::initEmpty() [DerivedT = llvm::DenseMap<const M::KGEN::LIT::ASTDecl *
+M::KGEN::LIT::ExprNode *>>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::ExprNode *>>]
+M::KGEN::LIT::ExprNode *]
+M::KGEN::LIT::ExprNode::Kind>::operator[](size_t) const [T = M::KGEN::LIT::ExprNode::Kind]
+M::KGEN::LIT::ExprNode]
+M::KGEN::LIT::ExprParser::parsePrimaryExpr(M::KGEN::LIT::ExprNode *&)
+M::KGEN::LIT::ExprParser::parseStarredListAsTuple(M::KGEN::LIT::ExprNode *&
+M::KGEN::LIT::ExprParser::parseSubscriptSuffix(M::KGEN::LIT::ExprNode *&
+M::KGEN::LIT::ExternFuncOp
+M::KGEN::LIT::ExternFuncOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::FileModuleOp
+M::KGEN::LIT::FileModuleOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::FileModuleOp>::getBody(unsigned int) [ConcreteType = M::KGEN::LIT::FileModuleOp]
+M::KGEN::LIT::FuncOp
+M::KGEN::LIT::FuncOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::FuncOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::FuncOp::renameDeclarations(ArrayRef<M::KGEN::ParamDeclAttr>)
+M::KGEN::LIT::FuncOp>
+M::KGEN::LIT::FuncOp>::Impl<Empty>]
+M::KGEN::LIT::FuncOp>::collectParameterUsesBelow(function_ref<void (mlir::Attribute)>
+M::KGEN::LIT::FuncOp>::operator[](llvm::SmallVectorTemplateCommon::size_type) [T = M::KGEN::LIT::FuncOp]
+M::KGEN::LIT::FuncOp>>
+M::KGEN::LIT::FuncOp>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::FuncOp>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::FuncOp>>::initEmpty() [DerivedT = llvm::DenseMap<mlir::StringAttr
+M::KGEN::LIT::FuncOp>>::initEmpty() [DerivedT = llvm::DenseMap<mlir::SymbolRefAttr
+M::KGEN::LIT::FuncOp>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::FuncOp>]
+M::KGEN::LIT::FuncOp]
+M::KGEN::LIT::GeneratedStubs M::KGEN::LIT::StructEmitter::addMissingValueMemberStubsToStruct(M::KGEN::LIT::StructDeclOp
+M::KGEN::LIT::GlobalDLValue::emitStore(ASTExprAnd<M::KGEN::LIT::CValue>
+M::KGEN::LIT::GlobalVarDeclOp
+M::KGEN::LIT::GlobalVarDeclOp &>]
+M::KGEN::LIT::GlobalVarDeclOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::GlobalVarDeclOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::GlobalVarDeclOp>]
+M::KGEN::LIT::GlobalVarDeclOp]
+M::KGEN::LIT::GlobalVarRefOp
+M::KGEN::LIT::GlobalVarRefOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::GlobalVarRefOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::HandleVariantOp
+M::KGEN::LIT::HandleVariantOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::HandleVariantOp::getEntryArguments(std::optional<unsigned int>)
+M::KGEN::LIT::HandleVariantOp>::Impl<Empty>]
+M::KGEN::LIT::InflightDiag &)::(anonymous class)::operator()() const
+M::KGEN::LIT::InflightDiag::Message>::back() [_Tp = M::KGEN::LIT::InflightDiag::Message
+M::KGEN::LIT::InflightDiag::Message>::front() [_Tp = M::KGEN::LIT::InflightDiag::Message
+M::KGEN::LIT::InflightDiag::Message>]
+M::KGEN::LIT::InputParamBindings
+M::KGEN::LIT::InputParamBindings::Binding>::operator[](llvm::SmallVectorTemplateCommon::size_type) const [T = M::KGEN::LIT::InputParamBindings::Binding]
+M::KGEN::LIT::InputParamBindings::ParameterInferenceHookTy) const
+M::KGEN::LIT::InputParamBindings::ParameterInferenceHookTy)::(anonymous class)::operator()(M::KGEN::LIT::InputParamBindings::Binding
+M::KGEN::LIT::InputParamBindings::verifyBindings(ArrayRef<mlir::Type>
+M::KGEN::LIT::IntLiteralNode
+M::KGEN::LIT::LValue
+M::KGEN::LIT::LValue M::KGEN::LIT::ExprEmitter::emitLValue(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::LValue M::KGEN::LIT::ValueDest::getLValueForResult(llvm::SMLoc
+M::KGEN::LIT::LValueBufferTaken
+M::KGEN::LIT::LValueInitializerType>]
+M::KGEN::LIT::LetRegDeclOp
+M::KGEN::LIT::LetRegDeclOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::LetRegDeclOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::Lexer &
+M::KGEN::LIT::Lexer::findEndOfPreviousLine(llvm::SMLoc) const
+M::KGEN::LIT::Lexer::getFloatLiteralValue(llvm::StringRef)
+M::KGEN::LIT::Lexer::getIntegerLiteralValue(llvm::StringRef)
+M::KGEN::LIT::Lexer::getStringLiteralValue(llvm::StringRef)
+M::KGEN::LIT::Lexer::lexBacktickIdentifier(const char *
+M::KGEN::LIT::Lexer::lexFloat(const char *
+M::KGEN::LIT::Lexer::lexInteger(const char *
+M::KGEN::LIT::LexerCursor
+M::KGEN::LIT::LexerCursor &)
+M::KGEN::LIT::LexerCursor>>::operator[](size_t) const [T = std::pair<M::KGEN::LIT::ExprNode *
+M::KGEN::LIT::LexerCursor>]
+M::KGEN::LIT::LifetimeAttr
+M::KGEN::LIT::LifetimeAttr]
+M::KGEN::LIT::LifetimeType
+M::KGEN::LIT::LifetimeType]
+M::KGEN::LIT::LoadConsumeOp
+M::KGEN::LIT::LoadConsumeOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::MBValue
+M::KGEN::LIT::MBValue &
+M::KGEN::LIT::MBValue M::KGEN::LIT::ExprEmitter::emitMBValue(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::MRValue
+M::KGEN::LIT::MRValue &>]
+M::KGEN::LIT::MRValue M::KGEN::LIT::ExprEmitter::emitMRValue(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::MagicMLIRAttrType
+M::KGEN::LIT::MagicMLIRAttrType]
+M::KGEN::LIT::MagicMLIROpType
+M::KGEN::LIT::MagicMLIROpType]
+M::KGEN::LIT::MagicMLIRTypeType
+M::KGEN::LIT::MagicMLIRTypeType]
+M::KGEN::LIT::MangledSymbol
+M::KGEN::LIT::MetaTypeType
+M::KGEN::LIT::MetaTypeType::parse(::mlir::AsmParser &)
+M::KGEN::LIT::MetaTypeType]
+M::KGEN::LIT::ModuleAttr
+M::KGEN::LIT::ModuleAttr]
+M::KGEN::LIT::NoneAttr
+M::KGEN::LIT::NoneAttr>]
+M::KGEN::LIT::NoneAttr]
+M::KGEN::LIT::NoneType
+M::KGEN::LIT::NoneType]
+M::KGEN::LIT::NullRepresentation
+M::KGEN::LIT::ORValue::OverloadSetWrapper>::~NonAtomicallyReferenceCounted() [SubClass = M::KGEN::LIT::ORValue::OverloadSetWrapper]
+M::KGEN::LIT::OverloadSet &
+M::KGEN::LIT::OverloadSet::getBoundConstantAttr(M::KGEN::LIT::ExprEmitter &) const
+M::KGEN::LIT::OwnershipDefLValueOp
+M::KGEN::LIT::OwnershipDefLValueOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::OwnershipEndLifetimeOp
+M::KGEN::LIT::OwnershipEndLifetimeOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::OwnershipEndLifetimeOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::OwnershipMakePointerLValue
+M::KGEN::LIT::OwnershipMakePointerLValue::build(::mlir::OpBuilder &
+M::KGEN::LIT::OwnershipMakePointerLValue::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::OwnershipMarkDestroyedOp
+M::KGEN::LIT::OwnershipMarkDestroyedOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::OwnershipUseOp
+M::KGEN::LIT::OwnershipUseOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::PValue
+M::KGEN::LIT::PValue &
+M::KGEN::LIT::PValue &>]
+M::KGEN::LIT::PValue M::KGEN::LIT::ExprEmitter::emitErrorForDynamicValueInParameter(const M::KGEN::LIT::ExprNode *
+M::KGEN::LIT::PValue M::KGEN::LIT::OverloadSet::getCallee(ArrayRef<M::KGEN::LIT::ASTDecl *>
+M::KGEN::LIT::PValue::PValue(mlir::Attribute)
+M::KGEN::LIT::PValue>::front() [T = M::KGEN::LIT::PValue]
+M::KGEN::LIT::PackageLinkOp
+M::KGEN::LIT::PackageLinkOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::PackageLinkOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::PackageOp
+M::KGEN::LIT::PackageOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::PackageOp>
+M::KGEN::LIT::PackageOp>::getBody(unsigned int) [ConcreteType = M::KGEN::LIT::PackageOp]
+M::KGEN::LIT::PackageOp]
+M::KGEN::LIT::ParamReturnOp
+M::KGEN::LIT::ParamReturnOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::ParamReturnOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::ParsedArgument
+M::KGEN::LIT::ParsedArgument &]
+M::KGEN::LIT::ParsedArgument> &
+M::KGEN::LIT::ParsedArgument>::assertSafeToReferenceAfterResize(const void *
+M::KGEN::LIT::ParsedArgument>::back() [T = M::KGEN::LIT::ParsedArgument]
+M::KGEN::LIT::ParsedArgument>::insert_one_impl(llvm::SmallVectorImpl::iterator
+M::KGEN::LIT::ParsedArgument>::operator[](llvm::SmallVectorTemplateCommon::size_type) [T = M::KGEN::LIT::ParsedArgument]
+M::KGEN::LIT::ParsedArgument]
+M::KGEN::LIT::REPLResultRefType
+M::KGEN::LIT::REPLResultRefType]
+M::KGEN::LIT::RaiseOp
+M::KGEN::LIT::RaiseOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::RefType
+M::KGEN::LIT::RefType::getElementAsType()
+M::KGEN::LIT::RefType::parse(::mlir::AsmParser &)
+M::KGEN::LIT::RefType]
+M::KGEN::LIT::ReturnOp
+M::KGEN::LIT::ReturnOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::SBValue
+M::KGEN::LIT::SBValue &
+M::KGEN::LIT::SLValue
+M::KGEN::LIT::SLValue &
+M::KGEN::LIT::SLValue &>]
+M::KGEN::LIT::SLValue M::KGEN::LIT::ValueDest::getSLValueForResult(llvm::SMLoc
+M::KGEN::LIT::SLValue>>::back() [T = std::pair<M::KGEN::LIT::ValueDest
+M::KGEN::LIT::SLValue>>::updatePointer(intptr_t
+M::KGEN::LIT::SLValue>]
+M::KGEN::LIT::SRValue
+M::KGEN::LIT::SRValue &
+M::KGEN::LIT::SRValue &>]
+M::KGEN::LIT::SRValue M::KGEN::LIT::ExprEmitter::emitBoxedIntAsPopScalar(mlir::Value
+M::KGEN::LIT::SRValue M::KGEN::LIT::ExprEmitter::emitExprSRValue(const M::KGEN::LIT::ExprNode *
+M::KGEN::LIT::SRValue M::KGEN::LIT::ExprEmitter::emitPValueToSRValue(ASTExprAnd<M::KGEN::LIT::PValue>
+M::KGEN::LIT::SRValue M::KGEN::LIT::ExprEmitter::emitSRValue(ASTExprAnd<M::KGEN::LIT::AnyValue>
+M::KGEN::LIT::SRValue>]
+M::KGEN::LIT::SharedState &
+M::KGEN::LIT::SharedState &)
+M::KGEN::LIT::SharedState &) const
+M::KGEN::LIT::SharedState::Impl>::operator*() const [_Tp = M::KGEN::LIT::SharedState::Impl
+M::KGEN::LIT::SharedState::Impl>]
+M::KGEN::LIT::SharedState::ModuleState *
+M::KGEN::LIT::SharedState::ModuleState *>
+M::KGEN::LIT::SharedState::ModuleState *>>
+M::KGEN::LIT::SharedState::ModuleState *>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::SharedState::ModuleState *>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::SharedState::ModuleState *>>::initEmpty() [DerivedT = llvm::DenseMap<M::KGEN::LIT::PackageOp
+M::KGEN::LIT::SharedState::ModuleState *>>::initEmpty() [DerivedT = llvm::DenseMap<M::KGEN::LIT::SharedState::ModuleState *
+M::KGEN::LIT::SharedState::ModuleState *>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::SharedState::ModuleState *>>::operator[](llvm::SmallVectorTemplateCommon::size_type) [T = std::pair<M::KGEN::LIT::ASTDecl *
+M::KGEN::LIT::SharedState::ModuleState *>]
+M::KGEN::LIT::SharedState::ModuleState *]
+M::KGEN::LIT::SharedState::ModuleState>
+M::KGEN::LIT::SharedState::ModuleState>::operator*() const [_Tp = M::KGEN::LIT::SharedState::ModuleState
+M::KGEN::LIT::SharedState::ModuleState>>
+M::KGEN::LIT::SharedState::ModuleState>>>
+M::KGEN::LIT::SharedState::ModuleState>>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::SharedState::ModuleState>>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::SharedState::ModuleState>>>::initEmpty() [DerivedT = llvm::DenseMap<mlir::StringAttr
+M::KGEN::LIT::SharedState::ModuleState>>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::SharedState::ModuleState>>]
+M::KGEN::LIT::SharedState::ModuleState>]
+M::KGEN::LIT::SharedState::importSubModuleState(llvm::StringRef
+M::KGEN::LIT::SharedState::initialize(M::KGEN::LIT::ASTDecl &)
+M::KGEN::LIT::SharedState::resolveDeclFromBytecode(M::KGEN::LIT::ASTDecl &
+M::KGEN::LIT::SharedState::setResolvedDeclSymbol(mlir::Operation *)
+M::KGEN::LIT::SliceNode
+M::KGEN::LIT::SourceRange::SourceRange(llvm::SMLoc
+M::KGEN::LIT::SpecialFunctionInfo &M::KGEN::LIT::SpecialFunctionInfo::get(M::KGEN::LIT::SpecialFunctionKind)
+M::KGEN::LIT::SpecialFunctionInfo)
+M::KGEN::LIT::SpecialFunctionKind &>]
+M::KGEN::LIT::StringLiteralNode
+M::KGEN::LIT::StructAttr
+M::KGEN::LIT::StructAttr::parse(::mlir::AsmParser &
+M::KGEN::LIT::StructAttr]
+M::KGEN::LIT::StructCreateOp
+M::KGEN::LIT::StructCreateOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::StructCreateOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::StructCreateOpAdaptor
+M::KGEN::LIT::StructCreateOp]
+M::KGEN::LIT::StructDeclOp
+M::KGEN::LIT::StructDeclOp M::KGEN::LIT::ClosureEmitter::createClosureImplStructDecl(llvm::SMLoc
+M::KGEN::LIT::StructDeclOp M::KGEN::LIT::ClosureEmitter::createClosureWrapperStructDecl(mlir::StringAttr
+M::KGEN::LIT::StructDeclOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::StructDeclOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::StructDeclOp>
+M::KGEN::LIT::StructDeclOp>::Impl<Empty>]
+M::KGEN::LIT::StructDeclOp>::getBody(unsigned int) [ConcreteType = M::KGEN::LIT::StructDeclOp]
+M::KGEN::LIT::StructDeclOp>>
+M::KGEN::LIT::StructDeclOp>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::StructDeclOp>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::StructDeclOp>>::initEmpty() [DerivedT = llvm::DenseMap<mlir::SymbolRefAttr
+M::KGEN::LIT::StructDeclOp>>::initEmpty() [DerivedT = llvm::DenseMap<std::pair<M::KGEN::SignatureType
+M::KGEN::LIT::StructDeclOp>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::StructDeclOp>>::operator[](llvm::SmallVectorTemplateCommon::size_type) [T = std::pair<mlir::SymbolRefAttr
+M::KGEN::LIT::StructDeclOp>]
+M::KGEN::LIT::StructDeclOp]
+M::KGEN::LIT::StructEmitter::populateMoveCopy(LIT::FuncOp
+M::KGEN::LIT::StructEmitter::synthesizeMemberwiseInit(llvm::SMLoc
+M::KGEN::LIT::StructExtractAttr
+M::KGEN::LIT::StructExtractAttr::parse(::mlir::AsmParser &
+M::KGEN::LIT::StructExtractAttr]
+M::KGEN::LIT::StructExtractOp
+M::KGEN::LIT::StructExtractOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::StructExtractOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::StructExtractOp]
+M::KGEN::LIT::StructFieldOp
+M::KGEN::LIT::StructFieldOp &>]
+M::KGEN::LIT::StructFieldOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::StructFieldOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::StructFieldOp>
+M::KGEN::LIT::StructFieldOp>>
+M::KGEN::LIT::StructFieldOp>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::StructFieldOp>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::StructFieldOp>>::getLargeRep() const [KeyT = mlir::StringAttr
+M::KGEN::LIT::StructFieldOp>>::grow(unsigned int) [KeyT = mlir::StringAttr
+M::KGEN::LIT::StructFieldOp>>::initEmpty() [DerivedT = llvm::SmallDenseMap<mlir::StringAttr
+M::KGEN::LIT::StructFieldOp>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::StructFieldOp>>::setNumEntries(unsigned int) [KeyT = mlir::StringAttr
+M::KGEN::LIT::StructFieldOp>]
+M::KGEN::LIT::StructGEPOp
+M::KGEN::LIT::StructGEPOp &>]
+M::KGEN::LIT::StructGEPOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::StructGEPOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::StructGEPOp>]
+M::KGEN::LIT::StructGEPOp]
+M::KGEN::LIT::StructInsertOp
+M::KGEN::LIT::StructInsertOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::StructInsertOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::StructInsertOp]
+M::KGEN::LIT::Token M::KGEN::LIT::ParserBase::consumeToken()
+M::KGEN::LIT::Token M::KGEN::LIT::ParserBase::consumeToken(Token::Kind)
+M::KGEN::LIT::Token::Kind>::assertSafeToReferenceAfterResize(const void *
+M::KGEN::LIT::Token::Kind]
+M::KGEN::LIT::TryOp
+M::KGEN::LIT::TryOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::TryOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::TryOp::getEntryTargets(ArrayRef<mlir::Attribute>
+M::KGEN::LIT::TryOp>
+M::KGEN::LIT::TryOp>::Impl<Empty>]
+M::KGEN::LIT::TryOp>>
+M::KGEN::LIT::TryOp>>::InsertIntoBucketImpl(const KeyT &
+M::KGEN::LIT::TryOp>>::LookupBucketFor(const LookupKeyT &
+M::KGEN::LIT::TryOp>>::copyFrom(const DenseMapBase<OtherBaseT
+M::KGEN::LIT::TryOp>>::initEmpty() [DerivedT = llvm::DenseMap<M::KGEN::LIT::TryOp
+M::KGEN::LIT::TryOp>>::moveFromOldBuckets(BucketT *
+M::KGEN::LIT::TryOp>>]
+M::KGEN::LIT::TryOp>]
+M::KGEN::LIT::TryOp]
+M::KGEN::LIT::TryRaiseOp
+M::KGEN::LIT::TryRaiseOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::TryYieldOp
+M::KGEN::LIT::TryYieldOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::TupleDLValue::TupleDLValue(ArrayRef<ASTExprAnd<M::KGEN::LIT::AnyValue>>
+M::KGEN::LIT::TupleDLValue::emitStore(ASTExprAnd<M::KGEN::LIT::CValue>
+M::KGEN::LIT::TupleNode
+M::KGEN::LIT::TypeCheckErrorType
+M::KGEN::LIT::TypeCheckErrorType]
+M::KGEN::LIT::UnboundMLIROperationAttr
+M::KGEN::LIT::UnboundMLIROperationAttr]
+M::KGEN::LIT::UnboundRegionOp
+M::KGEN::LIT::UnboundRegionOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::UnresolvedAliasValueAttr
+M::KGEN::LIT::UnresolvedAliasValueAttr &
+M::KGEN::LIT::UnresolvedAliasValueAttr]
+M::KGEN::LIT::UnresolvedImportOp
+M::KGEN::LIT::UnresolvedImportOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::UnresolvedImportOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::UnresolvedType
+M::KGEN::LIT::UnresolvedType &
+M::KGEN::LIT::UnresolvedType]
+M::KGEN::LIT::UnresolvedWildcardImportOp
+M::KGEN::LIT::UnresolvedWildcardImportOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::UnresolvedWildcardImportOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::ValueDest
+M::KGEN::LIT::ValueDest &
+M::KGEN::LIT::ValueDest &)
+M::KGEN::LIT::ValueDest::ValueDest(const M::KGEN::LIT::ExprNode *
+M::KGEN::LIT::ValueDest::~ValueDest()
+M::KGEN::LIT::VarLetDeclOp
+M::KGEN::LIT::VarLetDeclOp &
+M::KGEN::LIT::VarLetDeclOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::VarLetDeclOp::getAttributeNameForIndex(::mlir::OperationName
+M::KGEN::LIT::VariantCRValue<M::KGEN::LIT::AnyValue>::VariantCRValue(mlir::Attribute) [DerivedType = M::KGEN::LIT::AnyValue]
+M::KGEN::LIT::YieldOp
+M::KGEN::LIT::YieldOp::build(::mlir::OpBuilder &
+M::KGEN::LIT::YieldOp::getBranchTargets(ArrayRef<mlir::Attribute>
+M::KGEN::LIT::detail::ASTDeclInterfaceInterfaceTraits
+M::KGEN::LIT::detail::AliasDeclOpGenericAdaptorBase::getParamDeclAttr()
+M::KGEN::LIT::detail::AliasDeclOpGenericAdaptorBase::getValueAttr()
+M::KGEN::LIT::detail::AliasForwardDeclOpGenericAdaptorBase::getNameAttr()
+M::KGEN::LIT::detail::AliasForwardDeclOpGenericAdaptorBase::getResultParamLocAttr()
+M::KGEN::LIT::detail::AliasForwardDeclOpGenericAdaptorBase::getTypeAttr()
+M::KGEN::LIT::detail::AsyncCallOpGenericAdaptorBase::getCalleeAttr()
+M::KGEN::LIT::detail::AsyncCallOpGenericAdaptorBase::getParamDeclsAttr()
+M::KGEN::LIT::detail::AsyncExecuteOpGenericAdaptorBase::getCallLocAttr()
+M::KGEN::LIT::detail::FileModuleOpGenericAdaptorBase::getSymNameAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getConstraintsAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getDecoratorsAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getExportKindAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getFunctionTypeAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getInlineLevelAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getInputParamsAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getIsAdaptiveAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getIsDefAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getIsParametricAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getIsStaticAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getLinkageNameAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getParamDeclAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getPreCompiledModuleRefAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getResultParamsAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getSignatureAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getSpecialFnKindAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getSymNameAttr()
+M::KGEN::LIT::detail::FuncOpGenericAdaptorBase::getValueParamNamesAttr()
+M::KGEN::LIT::detail::GlobalVarDeclOpGenericAdaptorBase::getDecoratorsAttr()
+M::KGEN::LIT::detail::GlobalVarDeclOpGenericAdaptorBase::getExportKindAttr()
+M::KGEN::LIT::detail::GlobalVarDeclOpGenericAdaptorBase::getIsVarAttr()
+M::KGEN::LIT::detail::GlobalVarDeclOpGenericAdaptorBase::getLinkageNameAttr()
+M::KGEN::LIT::detail::GlobalVarDeclOpGenericAdaptorBase::getSymNameAttr()
+M::KGEN::LIT::detail::GlobalVarDeclOpGenericAdaptorBase::getTypeAttr()
+M::KGEN::LIT::detail::GlobalVarRefOpGenericAdaptorBase::getGlobalAttr()
+M::KGEN::LIT::detail::LetRegDeclOpGenericAdaptorBase::getNameAttr()
+M::KGEN::LIT::detail::OwnershipEndLifetimeOpGenericAdaptorBase::getIsRegAttr()
+M::KGEN::LIT::detail::OwnershipMakePointerLValueGenericAdaptorBase::getLiveOnEntryAttr()
+M::KGEN::LIT::detail::OwnershipMakePointerLValueGenericAdaptorBase::getLiveOnExitAttr()
+M::KGEN::LIT::detail::PackageLinkOpGenericAdaptorBase::getArchiveBytesAttr()
+M::KGEN::LIT::detail::PackageLinkOpGenericAdaptorBase::getCompiledForAttr()
+M::KGEN::LIT::detail::PackageLinkOpGenericAdaptorBase::getPostElaborationModuleAttr()
+M::KGEN::LIT::detail::PackageLinkOpGenericAdaptorBase::getPreElaborationModuleAttr()
+M::KGEN::LIT::detail::PackageLinkOpGenericAdaptorBase::getSymNameAttr()
+M::KGEN::LIT::detail::PackageOpGenericAdaptorBase::getArchiveBytesAttr()
+M::KGEN::LIT::detail::PackageOpGenericAdaptorBase::getCompiledForAttr()
+M::KGEN::LIT::detail::PackageOpGenericAdaptorBase::getPostElaborationModuleAttr()
+M::KGEN::LIT::detail::PackageOpGenericAdaptorBase::getPreElaborationModuleAttr()
+M::KGEN::LIT::detail::PackageOpGenericAdaptorBase::getSymNameAttr()
+M::KGEN::LIT::detail::ParamReturnOpGenericAdaptorBase::getParametersAttr()
+M::KGEN::LIT::detail::StructCreateOpGenericAdaptorBase::getFieldsAttr()
+M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getClosureSignatureAttr()
+M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getCopyInitAttr()
+M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getDecoratorsAttr()
+M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getDestructorAttr()
+M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getInputParamsAttr()
+M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getMoveInitAttr()
+M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getParamVarargsAttr()
+M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getRegisterPassableAttr()
+M::KGEN::LIT::detail::StructDeclOpGenericAdaptorBase::getSymNameAttr()
+M::KGEN::LIT::detail::StructExtractOpGenericAdaptorBase::getFieldAttr()
+M::KGEN::LIT::detail::StructFieldOpGenericAdaptorBase::getNameAttr()
+M::KGEN::LIT::detail::StructFieldOpGenericAdaptorBase::getTypeAttr()
+M::KGEN::LIT::detail::StructGEPOpGenericAdaptorBase::getFieldAttr()
+M::KGEN::LIT::detail::StructInsertOpGenericAdaptorBase::getFieldAttr()
+M::KGEN::LIT::detail::TryOpGenericAdaptorBase::getSuppressWarningsAttr()
+M::KGEN::LIT::detail::UnresolvedImportOpGenericAdaptorBase::getDeclNameAttr()
+M::KGEN::LIT::detail::UnresolvedImportOpGenericAdaptorBase::getDeclNameLocAttr()
+M::KGEN::LIT::detail::UnresolvedImportOpGenericAdaptorBase::getImportNameAttr()
+M::KGEN::LIT::detail::UnresolvedImportOpGenericAdaptorBase::getImportNameLocAttr()
+M::KGEN::LIT::detail::UnresolvedImportOpGenericAdaptorBase::getModuleNameAttr()
+M::KGEN::LIT::detail::UnresolvedWildcardImportOpGenericAdaptorBase::getFullImportAttr()
+M::KGEN::LIT::detail::UnresolvedWildcardImportOpGenericAdaptorBase::getModuleNameAttr()
+M::KGEN::LIT::detail::VarLetDeclOpGenericAdaptorBase::getIsSynthesizedAttr()
+M::KGEN::LIT::detail::VarLetDeclOpGenericAdaptorBase::getIsVarAttr()
+M::KGEN::LIT::detail::VarLetDeclOpGenericAdaptorBase::getNameAttr()
+M::KGEN::LIT::getUnboundSpecializedSignature(M::KGEN::SignatureType

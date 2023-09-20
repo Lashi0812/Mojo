@@ -1,0 +1,1291 @@
+In archive /root/.modular/pkg/packages.modular.com_mojo/lib/libKGENCompilerRT-static.a:
+
+GlobalProfilerContext.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CompactRuntimeTable.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Globals.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+TypeInfoTable.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+AlignedAlloc.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Base64.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+BuildInfo.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CommonCLOptions.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Configuration.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DeviceSpecs.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Error.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ErrorOr.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+FileSystemExtras.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+HMAC.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Host.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+IPInt.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+JSON.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MicroBenchmark.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Process.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Target.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+TimeProfiler.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+URI.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Version.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Version.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+AsyncValue.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DebuggingAllocators.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MallocAllocator.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Runtime.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+RuntimeCLOptions.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SingleThreadWorkQueue.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ThreadPoolWorkQueue.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+TypeID.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+FileLocationDecoder.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Location.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ReferenceCounted.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Resource.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Semaphore.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SpinWaiter.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ThreadAffinity.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+UnknownLocationDecoder.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+AArch64TargetParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ABIBreak.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+AMDGPUMetadata.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+APFixedPoint.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+APFloat.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+APInt.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+APSInt.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ARMAttributeParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ARMBuildAttrs.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ARMTargetParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ARMTargetParserCommon.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ARMWinEH.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Allocator.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Atomic.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+AutoConvert.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000010:
+HAS_SYMS
+start address 0x0000000000000000
+
+
+BalancedPartitioning.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Base64.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+BinaryStreamError.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+BinaryStreamReader.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+BinaryStreamRef.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+BinaryStreamWriter.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+BlockFrequency.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+BranchProbability.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+BuryPointer.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+COM.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CRC.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CSKYAttributeParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CSKYAttributes.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CSKYTargetParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CachePruning.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Caching.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Chrono.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CodeGenCoverage.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CommandLine.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Compression.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ConvertEBCDIC.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ConvertUTF.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ConvertUTFWrapper.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+CrashRecoveryContext.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DAGDeltaAlgorithm.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DJB.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DLangDemangle.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DataExtractor.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Debug.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DebugCounter.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DeltaAlgorithm.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Demangle.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DivisionByConstantInfo.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+DynamicLibrary.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ELFAttributeParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ELFAttributes.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Errno.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Error.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ErrorHandling.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ExtensibleRTTI.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+FileCollector.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+FileOutputBuffer.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+FileUtilities.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+FloatingPointMode.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+FoldingSet.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+FormatVariadic.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+FormattedStream.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+GlobPattern.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+GraphWriter.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Hashing.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Host.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+InitLLVM.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+InstructionCost.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+IntEqClasses.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+IntervalMap.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ItaniumDemangle.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+JSON.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+KnownBits.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+LEB128.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+LineIterator.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Locale.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+LockFileManager.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+LoongArchTargetParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MD5.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MSP430AttributeParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MSP430Attributes.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ManagedStatic.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MathExtras.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000010:
+HAS_SYMS
+start address 0x0000000000000000
+
+
+MemAlloc.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Memory.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MemoryBuffer.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MemoryBufferRef.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MicrosoftDemangle.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+MicrosoftDemangleNodes.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+NativeFormatting.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+OptimizedStructLayout.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Optional.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+PGOOptions.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Parallel.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Path.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+PluginLoader.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+PrettyStackTrace.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Process.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Program.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+RISCVAttributeParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+RISCVAttributes.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+RISCVISAInfo.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+RISCVTargetParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+RWMutex.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+RandomNumberGenerator.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Regex.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+RustDemangle.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SHA1.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SHA256.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ScaledNumber.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ScopedPrinter.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Signals.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Signposts.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SmallPtrSet.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SmallVector.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SourceMgr.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SpecialCaseList.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Statistic.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+StringExtras.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+StringMap.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+StringRef.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+StringSaver.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SubtargetFeature.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SuffixTree.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SuffixTreeNode.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+SystemUtils.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+TarWriter.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+TargetParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ThreadPool.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Threading.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+TimeProfiler.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Timer.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+ToolOutputFile.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Triple.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Twine.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+TypeSize.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Unicode.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+UnicodeCaseFold.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+UnicodeNameToCodepoint.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+UnicodeNameToCodepointGenerated.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Valgrind.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+VersionTuple.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+VirtualFileSystem.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Watchdog.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+WithColor.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+X86TargetParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+YAMLParser.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+YAMLTraits.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Z3Solver.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+blake3.c.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+blake3_avx2_x86-64_unix.S.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+blake3_avx512_x86-64_unix.S.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+blake3_dispatch.c.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+blake3_neon.c.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000010:
+HAS_SYMS
+start address 0x0000000000000000
+
+
+blake3_portable.c.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+blake3_sse2_x86-64_unix.S.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+blake3_sse41_x86-64_unix.S.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+circular_raw_ostream.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+raw_os_ostream.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+raw_ostream.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+regcomp.c.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+regerror.c.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+regexec.c.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+regfree.c.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+regstrlcpy.c.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+xxhash.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+InitIntelAMX.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Initialize.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+LLCL.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Memory.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+OutputChain.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Python.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Random.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+System.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
+
+Tracing.cpp.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000011:
+HAS_RELOC, HAS_SYMS
+start address 0x0000000000000000
+
