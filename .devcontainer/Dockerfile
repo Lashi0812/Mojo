@@ -10,7 +10,8 @@ RUN apt-get update && \
                    zsh \
                    ca-certificates \
                    python3.10 \
-                   python3-pip && \
+                   python3-pip \
+                   python3.10-venv && \
     ln -s /usr/bin/python3.10 /usr/bin/python
 RUN python -m pip install --no-cache-dir --upgrade pip 
 
@@ -24,6 +25,7 @@ RUN  --mount=type=cache,target=/root/.cache/pip python -m pip install -r /tmp/re
 
 # install mojo
 RUN curl https://get.modular.com | MODULAR_AUTH=mut_6f3d34f1c1364b698202458a2c42184b sh - && \
+    modular clean && \
     modular install mojo
 
 RUN echo 'export MODULAR_HOME="$HOME/.modular"' >> ~/.zshrc && \
